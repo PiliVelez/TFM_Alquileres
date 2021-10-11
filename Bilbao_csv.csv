@@ -1,0 +1,565 @@
+Ciudad;Habitaciones;Banhos;Superficie;Terraza;Ascensor;Parking;Tipo_vivienda;Calle;Precio;Barrio;Renta
+Bilbao;2;1;75;N;S;N;Piso;"Calle Santutxu; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;1;1;45;N;S;N;Piso;"Alda. Mazarredo; Abando - Albia";780;Abando;40300
+Bilbao;4;2;220;N;S;N;Piso;"Ercilla; Abando - Albia";1550;Abando;40300
+Bilbao;3;2;87;N;S;N;Piso;"Indautxu Kalea; Indautxu";1200;Indautxu;40401
+Bilbao;1;1;45;N;S;N;Piso;"Uribitarte; Abando - Albia";950;Abando;40300
+Bilbao;3;1;65;N;S;N;Piso;"Estrada Zalbidea; Basurtu - Zorrotza";670;Basurtu;29709
+Bilbao;3;2;90;N;S;N;Piso;Errekalde;1000;Errekalde;21172
+Bilbao;2;1;60;N;S;N;Piso;"Camilo Villabaso Kalea; Errekalde";900;Errekalde;21172
+Bilbao;4;3;200;N;S;N;Piso;"Calle del Correo; Ibaiondo";2300;Ibaiondo;30491
+Bilbao;3;2;109;N;S;N;�tico;"Calle Hurtado de Amézaga; Abando - Albia";1550;Abando;40300
+Bilbao;3;2;101;S;N;N;Piso;"Avenida Lehendakari Aguirre; Deusto";1200;Deusto;28537
+Bilbao;3;2;89;N;S;N;Piso;"Calle Marcelino Oreja; Indautxu";1300;Indautxu;40401
+Bilbao;3;1;95;N;N;N;Piso;"Fernandez del Campo; Indautxu";1250;Indautxu;40401
+Bilbao;6;3;200;N;S;N;Piso;Errekalde;1800;Errekalde;21172
+Bilbao;2;2;72;N;S;N;Piso;Errekalde;950;Errekalde;21172
+Bilbao;1;1;65;S;S;N;Piso;"Paseo Campo de Volantín; Uribarri";1100;Uribarri;18654
+Bilbao;3;3;119;N;S;N;Piso;"Gregorio de la Revilla; Indautxu";1200;Indautxu;40401
+Bilbao;1;1;47;N;S;N;Piso;"Calle María Díaz de Haro; Indautxu";850;Indautxu;40401
+Bilbao;4;2;140;N;S;N;Piso;"Calle Henao; Abando - Albia";1600;Abando;40300
+Bilbao;2;2;70;S;S;N;Piso;"Carretera Basurto-castrejana; Basurtu - Zorrotza";950;Basurtu;29709
+Bilbao;3;1;77;N;N;N;Piso;"Calle Encarnación; Ibaiondo";1200;Ibaiondo;30491
+Bilbao;2;1;74;N;N;N;Piso;Errekalde;875;Errekalde;21172
+Bilbao;1;1;55;N;S;N;Apartamento;"Sabino Arana Etorbidea; Basurtu - Zorrotza";800;Basurtu;29709
+Bilbao;3;3;105;S;S;N;Piso;Deusto;1150;Deusto;28537
+Bilbao;1;1;70;N;S;N;Piso;"Calle Gordóniz; Errekalde";750;Errekalde;21172
+Bilbao;3;1;85;N;S;N;Piso;Deusto;1190;Deusto;28537
+Bilbao;2;2;70;S;S;N;Piso;"Calle Henao; Abando - Albia";1100;Abando;40300
+Bilbao;2;2;60;N;S;N;Piso;"Bilbao - Matiko Kalea; Uribarri";720;Uribarri;18654
+Bilbao;1;1;50;N;S;N;Apartamento;"Calle General Concha; Indautxu";890;Indautxu;40401
+Bilbao;2;1;63;N;N;N;Piso;"Castillo Jeneralaren Kalea Estudiantes de Septiemb; Ibaiondo";900;Ibaiondo;30491
+Bilbao;3;1;70;S;S;N;Piso;Begoña - Santutxu;790;Santutxu;18165
+Bilbao;3;2;115;N;S;N;Piso;"Lersundi; Abando - Albia";1800;Abando;40300
+Bilbao;2;2;85;N;S;N;Piso;"Calle Ãvila; Errekalde";900;Errekalde;21172
+Bilbao;2;2;83;N;S;N;Piso;Indautxu;1100;Indautxu;40401
+Bilbao;1;1;45;N;S;N;Apartamento;"Huertas de la Villa; Uribarri";750;Uribarri;18654
+Bilbao;2;1;80;N;S;N;Piso;Basurtu - Zorrotza;850;Basurtu;29709
+Bilbao;4;2;143;S;S;N;�tico;Indautxu;2100;Indautxu;40401
+Bilbao;3;2;125;N;S;N;Piso;Deusto;1200;Deusto;28537
+Bilbao;2;2;110;N;S;N;Piso;Errekalde;1065;Errekalde;21172
+Bilbao;3;2;125;N;S;N;Piso;Indautxu;1290;Indautxu;40401
+Bilbao;3;2;85;N;N;N;Piso;"Calle Araneko; Deusto";1500;Deusto;28537
+Bilbao;1;1;50;N;N;N;Piso;Ibaiondo;730;Ibaiondo;30491
+Bilbao;2;1;65;N;N;N;Piso;"Mirasol Kondearen Kalea; Ibaiondo";775;Ibaiondo;30491
+Bilbao;3;2;140;N;S;N;Piso;Abando - Albia;1550;Abando;40300
+Bilbao;2;2;80;N;S;N;Piso;Abando - Albia;1350;Abando;40300
+Bilbao;2;1;70;N;S;N;Piso;Indautxu;850;Indautxu;40401
+Bilbao;2;1;78;S;S;N;Piso;"Múgica y Butrón Kalea; Uribarri";1000;Uribarri;18654
+Bilbao;3;3;250;N;N;N;Piso;"Paseo Campo de Volantín; Uribarri";2500;Uribarri;18654
+Bilbao;1;1;50;N;S;N;Apartamento;"Calle General Concha; Indautxu";950;Indautxu;40401
+Bilbao;3;2;105;N;S;N;Piso;"Calle Islas Canarias; Deusto";1150;Deusto;28537
+Bilbao;1;1;62;S;S;N;Piso;"Calle Biarritz; Errekalde";860;Errekalde;21172
+Bilbao;2;2;85;N;S;N;Piso;"José María de Escuza Kalea; Indautxu";1100;Indautxu;40401
+Bilbao;2;2;80;N;S;N;Piso;Indautxu;850;Indautxu;40401
+Bilbao;1;1;60;N;S;N;Piso;Abando - Albia;1200;Abando;40300
+Bilbao;1;1;65;N;S;N;Piso;"Calle Lehendakari Leizaola; Abando - Albia";1300;Abando;40300
+Bilbao;1;1;50;N;S;N;Piso;"Avenida Sabino Arana; Basurtu - Zorrotza";850;Basurtu;29709
+Bilbao;3;1;80;S;S;N;Piso;Ibaiondo;870;Ibaiondo;30491
+Bilbao;1;1;74;N;S;N;Piso;"Calle Fernández del Campo; Indautxu";1100;Indautxu;40401
+Bilbao;4;2;125;N;S;N;Piso;"Calle de Ercilla; Indautxu";1600;Indautxu;40401
+Bilbao;1;1;50;N;S;N;Piso;"Carretera de Zorroza a Castrejana; Basurtu - Zorrotza";650;Basurtu;29709
+Bilbao;3;1;80;N;S;N;Piso;Begoña - Santutxu;850;Santutxu;18165
+Bilbao;3;2;90;N;S;N;Piso;"Marcelino Oreja Kalea; Indautxu";1200;Indautxu;40401
+Bilbao;3;3;120;S;S;N;Piso;"Calle Islas Canarias; Deusto";1150;Deusto;28537
+Bilbao;2;2;85;N;S;N;Piso;Indautxu;1350;Indautxu;40401
+Bilbao;1;1;70;N;S;N;Apartamento;"Calle de la Ronda; Ibaiondo";800;Ibaiondo;30491
+Bilbao;3;1;80;N;S;N;Piso;"Santutxu Kalea; Begoña - Santutxu";850;Santutxu;18165
+Bilbao;3;2;90;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;4;2;110;S;S;N;Piso;Deusto;1800;Deusto;28537
+Bilbao;1;1;55;N;S;N;Apartamento;"Alameda de Mazarredo; Abando - Albia";975;Abando;40300
+Bilbao;4;1;109;S;S;N;Piso;"Avenida Lehendakari Aguirre; Deusto";1800;Deusto;28537
+Bilbao;1;1;50;N;S;N;Apartamento;"Calle de Elcano; Abando - Albia";800;Abando;40300
+Bilbao;2;1;60;N;N;N;Piso;"Barrio Altamira; Basurtu - Zorrotza";700;Basurtu;29709
+Bilbao;1;1;50;N;S;N;Apartamento;Abando - Albia;975;Abando;40300
+Bilbao;2;2;126;N;S;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;1;1;55;S;S;N;Apartamento;"Calle General Concha; Indautxu";950;Indautxu;40401
+Bilbao;2;1;63;N;S;N;Piso;"Iturribide Kalea; Ibaiondo";850;Ibaiondo;30491
+Bilbao;2;1;60;N;S;N;Piso;"Calle Luis Luciano Bonaparte; Begoña - Santutxu";825;Santutxu;18165
+Bilbao;1;1;50;N;S;N;Apartamento;Indautxu;950;Indautxu;40401
+Bilbao;4;2;168;N;S;N;Piso;Abando - Albia;1400;Abando;40300
+Bilbao;3;2;106;N;S;N;Piso;Ibaiondo;1050;Ibaiondo;30491
+Bilbao;2;2;85;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;1;1;20;N;S;N;Estudio;"Avenida Gabriel Aresti; Otxarkoaga - Txurdinaga";750;Txurdinaga;26356
+Bilbao;3;2;100;N;S;N;Piso;"Calle de Irala; Errekalde";1000;Errekalde;21172
+Bilbao;2;2;74;N;S;S;Piso;"Plaza del Funicular; Uribarri";1250;Uribarri;18654
+Bilbao;1;1;52;N;S;N;Piso;Indautxu;800;Indautxu;40401
+Bilbao;3;2;91;N;S;N;Piso;"Calle Muelle Sirgueras; Basurtu - Zorrotza";1300;Basurtu;29709
+Bilbao;2;1;72;N;S;N;Piso;Abando - Albia;950;Abando;40300
+Bilbao;2;2;82;N;S;N;Piso;"Calle Manuel Allende; Indautxu";1000;Indautxu;40401
+Bilbao;1;1;50;N;S;N;Apartamento;"Urkijo; Indautxu";800;Indautxu;40401
+Bilbao;3;2;81;N;S;N;Piso;"Avenida Madariaga; Deusto";1100;Deusto;28537
+Bilbao;2;2;83;N;N;N;Piso;"Cueva Santimamiñe; Ibaiondo";800;Ibaiondo;30491
+Bilbao;3;1;77;N;S;N;Piso;"Calle MÂª Diaz de Haro; Indautxu";1000;Indautxu;40401
+Bilbao;1;1;60;N;S;N;Apartamento;Abando - Albia;750;Abando;40300
+Bilbao;2;1;70;N;S;N;�tico;"Errekalde-larraskitu Errepidea; Errekalde";750;Errekalde;21172
+Bilbao;1;1;50;N;S;N;Piso;Indautxu;850;Indautxu;40401
+Bilbao;2;2;126;N;S;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;3;2;90;S;S;N;Piso;"Etxezuri Kalea; Uribarri";1200;Uribarri;18654
+Bilbao;1;1;60;N;S;N;Apartamento;"Sabino Arana Etorbidea; Basurtu - Zorrotza";850;Basurtu;29709
+Bilbao;2;2;100;N;S;N;Piso;Ibaiondo;990;Ibaiondo;30491
+Bilbao;2;1;60;N;S;N;Piso;Errekalde;950;Errekalde;21172
+Bilbao;3;1;67;S;S;N;Piso;"Errekalde-larraskitu Errepidea; Errekalde";700;Errekalde;21172
+Bilbao;3;1;65;N;S;N;Piso;Basurtu - Zorrotza;1500;Basurtu;29709
+Bilbao;2;2;80;N;S;N;Piso;"Guisasola Juan Kalea; Begoña - Santutxu";800;Santutxu;18165
+Bilbao;1;1;70;N;N;N;Piso;Ibaiondo;1875;Ibaiondo;30491
+Bilbao;1;1;50;S;S;N;Apartamento;Basurtu - Zorrotza;875;Basurtu;29709
+Bilbao;1;1;45;N;S;N;Apartamento;Indautxu;850;Indautxu;40401
+Bilbao;2;2;160;N;S;N;Piso;Abando - Albia;2300;Abando;40300
+Bilbao;7;2;173;N;S;N;Piso;Errekalde;1800;Errekalde;21172
+Bilbao;1;1;60;N;S;N;Piso;Ibaiondo;800;Ibaiondo;30491
+Bilbao;2;1;65;N;S;N;Piso;"Barrio la Cruz; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;1;1;60;N;N;N;Loft;LoftIbaiondo;770;Ibaiondo;30491
+Bilbao;3;2;130;S;S;N;Piso;Deusto;1200;Deusto;28537
+Bilbao;3;2;90;N;S;N;�tico;"Kraus Alfredo Plaza; Errekalde";1000;Errekalde;21172
+Bilbao;2;2;75;S;S;N;Piso;"Calle General Eguía; Indautxu";980;Indautxu;40401
+Bilbao;2;2;90;N;S;N;Piso;Abando - Albia;1950;Abando;40300
+Bilbao;2;2;103;N;S;N;Piso;Abando - Albia;1400;Abando;40300
+Bilbao;3;2;85;S;S;N;Piso;"San Adrian Etorbidea; 1; Ibaiondo";1050;Ibaiondo;30491
+Bilbao;4;2;160;N;S;N;Piso;Abando - Albia;1600;Abando;40300
+Bilbao;2;2;92;N;N;N;Piso;Basurtu - Zorrotza;1100;Basurtu;29709
+Bilbao;1;1;50;N;S;N;Piso;"Puente de la Salve; Abando - Albia";975;Abando;40300
+Bilbao;2;2;75;N;S;N;D�plex;"Campo Volantin; Uribarri";950;Uribarri;18654
+Bilbao;1;1;65;N;S;N;Piso;Abando - Albia;1150;Abando;40300
+Bilbao;2;1;75;N;S;N;Piso;Abando - Albia;1150;Abando;40300
+Bilbao;1;1;60;N;S;N;Piso;Abando - Albia;1100;Abando;40300
+Bilbao;2;1;65;S;S;N;Piso;Errekalde;990;Errekalde;21172
+Bilbao;2;2;86;S;S;N;Piso;Abando - Albia;1700;Abando;40300
+Bilbao;1;2;60;N;S;N;Piso;"Travesía de Uribitarte; Abando - Albia";850;Abando;40300
+Bilbao;1;1;57;N;S;N;Apartamento;Abando - Albia;975;Abando;40300
+Bilbao;3;2;107;N;N;N;Piso;"Barrenkale; Ibaiondo";1300;Ibaiondo;30491
+Bilbao;1;1;53;N;S;N;Apartamento;Errekalde;875;Errekalde;21172
+Bilbao;3;3;115;N;S;N;Piso;Ibaiondo;1450;Ibaiondo;30491
+Bilbao;3;2;92;N;S;N;Piso;"Luis Briñas; Basurtu - Zorrotza";1200;Basurtu;29709
+Bilbao;3;2;105;N;N;N;Piso;"Calle Islas Canarias; Deusto";1150;Deusto;28537
+Bilbao;3;2;96;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;3;2;140;N;S;N;Piso;Indautxu;1350;Indautxu;40401
+Bilbao;1;1;54;N;N;N;Piso;"Calle Torre; Ibaiondo";950;Ibaiondo;30491
+Bilbao;3;3;156;N;S;N;Piso;Deusto;1600;Deusto;28537
+Bilbao;2;2;95;N;S;N;Piso;Abando - Albia;1350;Abando;40300
+Bilbao;2;2;125;S;S;N;Piso;"Zirgariak Kaia; Basurtu - Zorrotza";1400;Basurtu;29709
+Bilbao;2;1;65;N;N;N;Piso;Ibaiondo;990;Ibaiondo;30491
+Bilbao;2;1;65;N;N;N;Piso;"Andramaria de Begoña Auzoa; Uribarri";700;Uribarri;18654
+Bilbao;2;2;120;S;S;N;Piso;"Grupo Tomas Zubiria Ybarra; Uribarri";1000;Uribarri;18654
+Bilbao;2;1;88;S;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;1;1;62;S;S;N;Apartamento;"Calle Biarritz; Errekalde";860;Errekalde;21172
+Bilbao;1;2;50;N;S;N;Piso;"Mazarredo Zumarkalea; Abando - Albia";1200;Abando;40300
+Bilbao;1;1;62;S;S;N;Apartamento;Errekalde;860;Errekalde;21172
+Bilbao;2;1;70;N;S;N;Piso;Abando - Albia;950;Abando;40300
+Bilbao;2;2;70;N;S;N;Piso;Abando - Albia;1200;Abando;40300
+Bilbao;3;2;105;S;S;N;Piso;"Santutxu Kalea; Begoña - Santutxu";990;Santutxu;18165
+Bilbao;3;2;100;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;1;1;48;S;S;N;Piso;"Avenida Sabino Arana; Indautxu";830;Indautxu;40401
+Bilbao;2;2;75;N;S;N;Piso;"Calle Henao; Abando - Albia";1400;Abando;40300
+Bilbao;2;1;75;N;N;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;3;2;95;N;S;N;Piso;Basurtu - Zorrotza;1050;Basurtu;29709
+Bilbao;5;2;140;N;S;N;Piso;Abando - Albia;2900;Abando;40300
+Bilbao;2;2;65;N;S;N;Piso;"Calle San Mamés; Indautxu";800;Indautxu;40401
+Bilbao;2;2;80;N;S;N;Piso;Ibaiondo;1000;Ibaiondo;30491
+Bilbao;1;1;63;S;S;N;Apartamento;"Biarritz Kalea; Errekalde";860;Errekalde;21172
+Bilbao;4;2;168;N;S;N;Piso;Abando - Albia;1550;Abando;40300
+Bilbao;1;1;61;N;N;N;Piso;"Artekale Kalea; Ibaiondo";780;Ibaiondo;30491
+Bilbao;1;2;105;N;N;N;Piso;Uribarri;1300;Uribarri;18654
+Bilbao;4;3;139;N;S;N;Piso;Abando - Albia;1500;Abando;40300
+Bilbao;1;1;65;N;S;N;Piso;Abando - Albia;1100;Abando;40300
+Bilbao;1;1;74;N;S;N;Apartamento;Ibaiondo;1190;Ibaiondo;30491
+Bilbao;2;1;65;S;S;N;Piso;"Gordóniz Kalea; Errekalde";990;Errekalde;21172
+Bilbao;2;1;65;S;S;N;Piso;Errekalde;990;Errekalde;21172
+Bilbao;3;2;98;N;S;N;Piso;Indautxu;1800;Indautxu;40401
+Bilbao;2;2;90;N;S;N;Piso;Uribarri;1250;Uribarri;18654
+Bilbao;2;1;70;N;N;N;Piso;Deusto;850;Deusto;28537
+Bilbao;2;2;70;N;S;N;Piso;"Calle Rodríguez Arias; Indautxu";900;Indautxu;40401
+Bilbao;3;2;85;N;S;N;Piso;Errekalde;960;Errekalde;21172
+Bilbao;2;2;74;N;S;N;Piso;"Calle General Eguía; Basurtu - Zorrotza";870;Basurtu;29709
+Bilbao;3;2;85;S;S;N;Piso;"Calle Etxezuri; Uribarri";1200;Uribarri;18654
+Bilbao;2;2;67;N;S;N;Piso;Indautxu;900;Indautxu;40401
+Bilbao;2;1;75;N;S;N;Piso;Abando - Albia;1150;Abando;40300
+Bilbao;3;1;80;N;S;N;Piso;Begoña - Santutxu;850;Santutxu;18165
+Bilbao;2;1;72;N;S;N;Piso;Indautxu;900;Indautxu;40401
+Bilbao;2;1;60;N;N;N;Piso;"Barrio Zurbaranbarri; Uribarri";675;Uribarri;18654
+Bilbao;4;2;130;N;S;N;Piso;Indautxu;1600;Indautxu;40401
+Bilbao;2;2;95;N;S;N;Piso;"Calle de Ercilla; Abando - Albia";1300;Abando;40300
+Bilbao;2;2;92;S;S;N;Piso;"Grupo Tomas Zubiria Ybarra; Uribarri";1000;Uribarri;18654
+Bilbao;3;1;90;S;S;N;Piso;"Calle Arane; Errekalde";880;Errekalde;21172
+Bilbao;1;1;57;N;S;N;Apartamento;"Carretera Basurto-castrejana; Basurtu - Zorrotza";850;Basurtu;29709
+Bilbao;2;2;97;N;S;N;Piso;Indautxu;1300;Indautxu;40401
+Bilbao;2;2;72;N;N;N;Piso;Indautxu;950;Indautxu;40401
+Bilbao;2;2;82;S;S;N;Piso;Ibaiondo;1300;Ibaiondo;30491
+Bilbao;3;2;110;N;S;N;Piso;"Avenida Lehendakari Aguirre; Deusto";1000;Deusto;28537
+Bilbao;4;2;148;N;S;N;Piso;Indautxu;1780;Indautxu;40401
+Bilbao;1;2;75;N;S;N;Piso;Abando - Albia;1200;Abando;40300
+Bilbao;2;1;61;N;N;N;Piso;Ibaiondo;750;Ibaiondo;30491
+Bilbao;1;1;50;N;S;N;Apartamento;Basurtu - Zorrotza;760;Basurtu;29709
+Bilbao;2;1;65;N;S;N;Piso;" Gordoniz ; 28; Errekalde";990;Errekalde;21172
+Bilbao;3;1;80;N;S;N;Piso;"Calle Santutxu; 22; Begoña - Santutxu";850;Santutxu;18165
+Bilbao;1;1;55;N;S;N;�tico;"Avenida Sabino Arana; Indautxu";820;Indautxu;40401
+Bilbao;3;2;120;N;S;N;Piso;Errekalde;1100;Errekalde;21172
+Bilbao;2;2;94;S;S;N;Piso;"Muelle Sirgueras; Basurtu - Zorrotza";1400;Basurtu;29709
+Bilbao;2;1;50;N;S;N;Piso;"Camino de la Ventosa; Basurtu - Zorrotza";1550;Basurtu;29709
+Bilbao;3;2;85;N;S;N;Piso;Basurtu - Zorrotza;1100;Basurtu;29709
+Bilbao;1;1;50;N;S;N;Piso;Basurtu - Zorrotza;760;Basurtu;29709
+Bilbao;2;2;90;S;N;N;Piso;"Avenida Zumalacárregui; Begoña - Santutxu";1800;Santutxu;18165
+Bilbao;3;2;102;S;S;N;Piso;"Calle Karmelo; Begoña - Santutxu";902;Santutxu;18165
+Bilbao;1;1;50;N;S;N;Piso;"Alameda de Mazarredo; Abando - Albia";850;Abando;40300
+Bilbao;2;2;65;S;S;N;Piso;"Calle Gordóniz; Errekalde";990;Errekalde;21172
+Bilbao;2;1;65;S;S;N;Piso;"Calle Gordóniz; Errekalde";990;Errekalde;21172
+Bilbao;2;1;65;N;S;N;Piso;"Calle Quintana; Ibaiondo";850;Ibaiondo;30491
+Bilbao;2;2;70;N;S;N;Piso;"Alameda Gregorio de la Revilla; Indautxu";1000;Indautxu;40401
+Bilbao;1;1;72;S;S;N;�tico;"Alameda Gregorio de la Revilla; Indautxu";1120;Indautxu;40401
+Bilbao;2;1;65;S;S;N;Piso;Errekalde;990;Errekalde;21172
+Bilbao;2;1;60;N;S;N;Piso;Abando - Albia;1050;Abando;40300
+Bilbao;2;1;80;N;S;N;Piso;Abando - Albia;1100;Abando;40300
+Bilbao;4;2;148;S;S;N;Piso;"Calle Rodríguez Arias; Indautxu";1500;Indautxu;40401
+Bilbao;2;2;85;N;S;S;Piso;"Ribera de Botica Vieja; Deusto";1000;Deusto;28537
+Bilbao;2;2;105;N;S;N;Piso;"Calle Hernani; Ibaiondo";850;Ibaiondo;30491
+Bilbao;2;2;74;N;S;N;Piso;"Calle Lezeaga; Basurtu - Zorrotza";790;Basurtu;29709
+Bilbao;3;1;85;S;S;N;Piso;"Calle Uribarri; Uribarri";950;Uribarri;18654
+Bilbao;3;2;140;N;S;N;Piso;"Calle Autonomía; Indautxu";1200;Indautxu;40401
+Bilbao;2;1;55;N;S;N;Piso;"Calle Autonomía; Errekalde";850;Errekalde;21172
+Bilbao;2;2;70;N;S;N;Piso;"Calle Ibarrekolanda; Deusto";1050;Deusto;28537
+Bilbao;1;1;50;N;S;N;Apartamento;"Avenida Sabino Arana; Basurtu - Zorrotza";790;Basurtu;29709
+Bilbao;2;1;60;N;S;N;Piso;"Calle Camilo Villabaso; 32; Errekalde";990;Errekalde;21172
+Bilbao;2;2;90;N;S;N;Piso;Uribarri;1250;Uribarri;18654
+Bilbao;1;1;60;N;S;N;Piso;"Mazarredo; Abando - Albia";900;Abando;40300
+Bilbao;4;1;85;S;S;N;Piso;"Montevideo Etorbidea; Basurtu - Zorrotza";1500;Basurtu;29709
+Bilbao;2;2;92;S;S;N;Piso;"Plaza de Euskadi; Abando - Albia";1800;Abando;40300
+Bilbao;2;2;92;S;S;N;Piso;"Plaza de Euskadi; Abando - Albia";1950;Abando;40300
+Bilbao;2;2;108;S;S;N;Piso;"Plaza de Euskadi; Abando - Albia";2200;Abando;40300
+Bilbao;1;2;45;N;S;N;Loft;LoftAbando - Albia;1200;Abando;40300
+Bilbao;3;2;160;N;S;N;Piso;Abando - Albia;2300;Abando;40300
+Bilbao;4;1;160;N;N;N;Piso;"Bilbao - Cueva Santimamiñe 1. Bilbao; Ibaiondo";1350;Ibaiondo;30491
+Bilbao;3;3;145;S;S;N;Piso;"Bilbao - Maria Diaz de Haro; Indautxu";1700;Indautxu;40401
+Bilbao;3;2;170;N;S;N;Piso;"Don Diego López Haroko Kale Nagusia; Abando - Albia";1800;Abando;40300
+Bilbao;2;2;90;S;S;N;D�plex;"Muelle Sirgueras; Basurtu - Zorrotza";1100;Basurtu;29709
+Bilbao;4;2;145;N;S;S;Piso;"Paseo Campo de Volantín; Uribarri";1850;Uribarri;18654
+Bilbao;2;1;75;N;S;N;Piso;"José María de Escuza Kalea; Indautxu";900;Indautxu;40401
+Bilbao;2;2;70;N;S;N;Piso;"Calle Zankoeta; Basurtu - Zorrotza";950;Basurtu;29709
+Bilbao;2;2;70;N;S;N;Piso;"Máximo Aguirre; Indautxu";1500;Indautxu;40401
+Bilbao;1;1;52;N;S;N;Piso;"Pérez Galdós Kalea; Indautxu";800;Indautxu;40401
+Bilbao;2;1;70;S;N;N;Piso;"Plaza Aita Donostia; 4; Basurtu - Zorrotza";800;Basurtu;29709
+Bilbao;2;2;90;N;S;N;Piso;"Funikularreko Plaza; Uribarri";1250;Uribarri;18654
+Bilbao;2;3;150;N;S;N;Piso;"Calle de Ercilla; Abando - Albia";2000;Abando;40300
+Bilbao;2;1;78;N;N;N;Piso;"Barrio Betolatza; 54; Errekalde";700;Errekalde;21172
+Bilbao;2;1;60;N;S;N;Piso;"Sagarminaga Etxetaldea; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;1;2;136;N;S;N;Piso;"Paseo Uribitarte; Abando - Albia";1800;Abando;40300
+Bilbao;3;1;88;N;S;N;Piso;"Calle Islas Canarias; Deusto";830;Deusto;28537
+Bilbao;2;3;103;N;S;N;Piso;"Calle de Ercilla; Indautxu";1400;Indautxu;40401
+Bilbao;2;1;60;N;N;N;Piso;"Grupo Unión Begoñesa; Begoña - Santutxu";1400;Santutxu;18165
+Bilbao;2;1;55;N;N;N;Piso;"Carretera Castresana; Basurtu - Zorrotza";520;Basurtu;29709
+Bilbao;2;1;65;N;S;N;Piso;"Gordóniz Kalea; Errekalde";750;Errekalde;21172
+Bilbao;3;2;120;S;S;N;Estudio;"Avenida Sabino Arana; Basurtu - Zorrotza";790;Basurtu;29709
+Bilbao;3;2;103;N;S;N;Piso;"Heros; Abando - Albia";1200;Abando;40300
+Bilbao;2;2;75;N;S;N;Piso;Uribarri;900;Uribarri;18654
+Bilbao;3;1;75;N;S;N;Piso;"Blas de Otero; Deusto";850;Deusto;28537
+Bilbao;3;2;95;N;S;N;Piso;"Bilbao - Landin Felix Doctor Kalea; Errekalde";950;Errekalde;21172
+Bilbao;1;1;45;N;S;N;Apartamento;Abando - Albia;800;Abando;40300
+Bilbao;3;1;103;N;N;N;Piso;Ibaiondo;950;Ibaiondo;30491
+Bilbao;3;2;130;N;S;N;Piso;Abando - Albia;1800;Abando;40300
+Bilbao;3;1;60;N;N;N;Piso;"Calle Lozoño; Otxarkoaga - Txurdinaga";1200;Txurdinaga;26356
+Bilbao;3;2;80;N;N;N;Piso;Ibaiondo;1000;Ibaiondo;30491
+Bilbao;2;1;68;N;S;N;Piso;"Iturriaga; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;4;2;112;S;S;N;Piso;Deusto;1800;Deusto;28537
+Bilbao;3;1;57;N;N;N;Piso;"Lozoño Kalea; Otxarkoaga - Txurdinaga";800;Txurdinaga;26356
+Bilbao;2;2;70;S;S;N;Piso;"Paseo Campo de Volantín; Uribarri";950;Uribarri;18654
+Bilbao;3;2;120;N;S;N;Piso;Ibaiondo;1200;Ibaiondo;30491
+Bilbao;1;2;45;N;S;N;Apartamento;"Mazarredo Zumarkalea; Abando - Albia";1200;Abando;40300
+Bilbao;3;1;108;N;N;N;Piso;"Calle la Laguna; Ibaiondo";950;Ibaiondo;30491
+Bilbao;3;1;95;S;S;N;Piso;"Karmelo; Begoña - Santutxu";875;Santutxu;18165
+Bilbao;2;1;52;S;S;N;Piso;"Calle Cocherito de Bilbao; Begoña - Santutxu";720;Santutxu;18165
+Bilbao;2;1;52;N;S;N;Piso;"Calle Médico Antonio Eguiluz; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;1;1;45;N;S;N;Piso;"Calle Huertas de la Villa; Uribarri";750;Uribarri;18654
+Bilbao;2;2;90;S;S;N;Piso;Uribarri;1250;Uribarri;18654
+Bilbao;2;1;50;N;S;N;Piso;"Calle Blas de Otero; Deusto";650;Deusto;28537
+Bilbao;1;1;50;N;S;N;Apartamento;"Avenida Sabino Arana; Basurtu - Zorrotza";800;Basurtu;29709
+Bilbao;2;2;80;N;S;N;Piso;Ibaiondo;900;Ibaiondo;30491
+Bilbao;2;2;100;N;S;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;2;2;125;N;S;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;1;1;47;N;S;N;Piso;"Grupo San Joaquín; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;2;1;75;N;N;N;Piso;Deusto;890;Deusto;28537
+Bilbao;2;1;70;N;S;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;2;1;65;N;S;N;Piso;Errekalde;750;Errekalde;21172
+Bilbao;2;2;120;S;S;N;Piso;Uribarri;1000;Uribarri;18654
+Bilbao;3;2;75;N;S;N;Piso;Ibaiondo;1100;Ibaiondo;30491
+Bilbao;1;1;68;S;S;N;Apartamento;Errekalde;860;Errekalde;21172
+Bilbao;2;1;70;N;N;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;4;2;90;N;S;N;Piso;Deusto;1100;Deusto;28537
+Bilbao;3;2;84;S;S;N;Piso;"Avenida del Ferrocarril; Basurtu - Zorrotza";1200;Basurtu;29709
+Bilbao;1;1;58;N;S;N;Piso;"Lehendakari Leizaola; Abando - Albia";1200;Abando;40300
+Bilbao;2;1;65;N;S;N;Piso;"Calle Resurrección M. de Azkue; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;3;2;100;S;S;N;Piso;"Jose Maria de Barandiaran; Ibaiondo";1050;Ibaiondo;30491
+Bilbao;1;1;50;N;N;N;Apartamento;"Calle Lezeaga; Basurtu - Zorrotza";650;Basurtu;29709
+Bilbao;3;2;120;S;S;N;Piso;"Ramón Basterra; Abando - Albia";1600;Abando;40300
+Bilbao;2;2;100;N;S;N;Piso;Uribarri;1200;Uribarri;18654
+Bilbao;3;2;140;N;S;N;Piso;Indautxu;1750;Indautxu;40401
+Bilbao;2;1;55;N;S;N;Piso;"Calle Iturribide; Ibaiondo";850;Ibaiondo;30491
+Bilbao;3;2;80;N;N;N;Piso;Ibaiondo;1000;Ibaiondo;30491
+Bilbao;4;2;150;N;S;N;Piso;Abando - Albia;1600;Abando;40300
+Bilbao;3;2;107;N;N;N;Piso;Ibaiondo;1300;Ibaiondo;30491
+Bilbao;4;2;105;S;S;N;Piso;Otxarkoaga - Txurdinaga;1200;Uribarri;18654
+Bilbao;2;1;58;N;S;N;Apartamento;Abando - Albia;850;Abando;40300
+Bilbao;2;2;75;N;S;N;Piso;"Cosme Echevarrieta; Abando - Albia";1200;Abando;40300
+Bilbao;2;2;75;N;S;N;Piso;"Juan Ajuriaguerra; Abando - Albia";1200;Abando;40300
+Bilbao;4;2;140;N;S;N;Piso;"Henao Kalea; Abando - Albia";1600;Abando;40300
+Bilbao;2;1;60;S;S;N;Piso;Begoña - Santutxu;750;Santutxu;18165
+Bilbao;2;1;65;N;S;N;Apartamento;Basurtu - Zorrotza;660;Basurtu;29709
+Bilbao;4;2;132;N;S;N;Piso;"Calle Gordóniz; Indautxu";1800;Indautxu;40401
+Bilbao;2;2;75;N;S;N;Piso;"Calle Zankoeta; Basurtu - Zorrotza";950;Basurtu;29709
+Bilbao;3;2;110;S;S;N;Piso;Begoña - Santutxu;1000;Santutxu;18165
+Bilbao;2;2;86;S;S;N;Piso;Abando - Albia;1700;Abando;40300
+Bilbao;1;1;55;N;S;N;Apartamento;"Calle de Elcano; Abando - Albia";800;Abando;40300
+Bilbao;2;2;90;S;S;N;Piso;"Plaza del Funicular; Uribarri";1250;Uribarri;18654
+Bilbao;2;1;60;S;S;N;Piso;"Calle Iturribide; Ibaiondo";850;Ibaiondo;30491
+Bilbao;2;2;110;N;S;N;Piso;"Ribera de Deustu; Deusto";1400;Deusto;28537
+Bilbao;2;2;80;S;S;N;Piso;"Carretera de Basurto a Castrexana; Basurtu - Zorrotza";950;Basurtu;29709
+Bilbao;2;1;70;N;S;N;Piso;"Fernández del Campo Kalea; Abando - Albia";750;Abando;40300
+Bilbao;1;2;69;S;S;N;Piso;"Fernández del Campo; Abando - Albia";925;Abando;40300
+Bilbao;2;1;70;S;N;N;Piso;Uribarri;750;Txurdinaga;26356
+Bilbao;2;2;65;N;S;N;Piso;Errekalde;800;Errekalde;21172
+Bilbao;2;1;55;N;N;N;Piso;"Iturribide; Begoña - Santutxu";780;Santutxu;18165
+Bilbao;2;1;80;N;S;N;Piso;Basurtu - Zorrotza;1100;Basurtu;29709
+Bilbao;2;2;128;S;S;N;Piso;Basurtu - Zorrotza;1400;Basurtu;29709
+Bilbao;1;1;50;N;S;N;Piso;Indautxu;800;Indautxu;40401
+Bilbao;1;1;55;N;S;N;Piso;"Avenida Sabino Arana; Basurtu - Zorrotza";800;Basurtu;29709
+Bilbao;2;1;75;N;N;N;Piso;"Goienkale; Ibaiondo";850;Ibaiondo;30491
+Bilbao;3;1;90;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;3;2;95;N;S;N;Piso;Errekalde;1125;Errekalde;21172
+Bilbao;3;2;100;N;S;S;Piso;Begoña - Santutxu;900;Santutxu;18165
+Bilbao;3;2;85;N;S;S;Piso;"Plaza Iturriondo; Uribarri";850;Uribarri;18654
+Bilbao;3;2;80;N;S;N;Piso;Basurtu - Zorrotza;1300;Basurtu;29709
+Bilbao;1;1;52;N;S;N;Piso;Indautxu;900;Indautxu;40401
+Bilbao;2;2;115;N;S;N;Piso;Basurtu - Zorrotza;2000;Basurtu;29709
+Bilbao;3;2;90;N;S;N;Piso;"Calle Navarro Villoslada; Deusto";1000;Deusto;28537
+Bilbao;2;1;60;N;S;N;Piso;Begoña - Santutxu;850;Santutxu;18165
+Bilbao;2;2;72;N;S;N;Apartamento;"Diputacion; Abando - Albia";800;Abando;40300
+Bilbao;1;1;60;N;S;N;Apartamento;"Cardenal Gardoqui; Abando - Albia";1100;Abando;40300
+Bilbao;1;1;60;N;S;S;Apartamento;"Calle Cardenal Gardoqui; Abando - Albia";1000;Abando;40300
+Bilbao;4;2;85;S;S;N;Piso;"Calle Euskalduna; Abando - Albia";1300;Abando;40300
+Bilbao;3;2;95;N;N;N;Piso;"Calle Maestro Mendiri; Begoña - Santutxu";900;Santutxu;18165
+Bilbao;2;2;70;N;S;N;Piso;"Jose Maria Ugarteburu; Uribarri";850;Uribarri;18654
+Bilbao;3;1;75;N;S;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;2;2;125;N;S;N;Piso;"Deustuibarra; Deusto";1400;Deusto;28537
+Bilbao;1;1;62;N;S;N;Piso;Errekalde;790;Errekalde;21172
+Bilbao;1;1;50;N;S;N;Piso;Errekalde;800;Errekalde;21172
+Bilbao;3;2;120;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;2;1;70;N;S;N;Piso;Uribarri;1050;Uribarri;18654
+Bilbao;1;1;64;N;S;N;Piso;"Paseo Uribitarte; Abando - Albia";1200;Abando;40300
+Bilbao;1;2;95;N;S;N;Piso;"Avenida Universidades; Uribarri";1300;Uribarri;18654
+Bilbao;1;1;55;N;S;N;Piso;Begoña - Santutxu;750;Santutxu;18165
+Bilbao;4;1;115;N;S;N;Piso;"Alameda Urquijo; Indautxu";1100;Indautxu;40401
+Bilbao;2;1;60;N;S;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;2;2;120;N;S;S;Piso;"San Pedro de Deusto-la Ribera; Deusto";1400;Deusto;28537
+Bilbao;2;2;70;N;S;N;Piso;"Camino Artazubidea; Errekalde";1100;Errekalde;21172
+Bilbao;2;1;60;N;N;N;Piso;"Barrio Altamira; Basurtu - Zorrotza";700;Basurtu;29709
+Bilbao;2;1;60;N;S;N;Piso;"Iturribide Zeharkalea; Ibaiondo";850;Ibaiondo;30491
+Bilbao;2;1;85;S;S;N;Piso;"Alameda de Mazarredo; Abando - Albia";1350;Abando;40300
+Bilbao;2;2;90;S;S;N;Piso;"Travesía Ramón y Cajal; Deusto";1100;Deusto;28537
+Bilbao;2;1;69;N;S;N;Piso;"Calle Fernández del Campo; Abando - Albia";800;Abando;40300
+Bilbao;2;0;62;N;N;N;Piso;"Iturriaga; Begoña - Santutxu";800;Santutxu;18165
+Bilbao;2;1;60;N;S;N;Piso;Indautxu;850;Indautxu;40401
+Bilbao;1;1;54;N;N;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;1;1;65;N;S;N;Piso;"Calle Pérez Galdós; Indautxu";800;Indautxu;40401
+Bilbao;2;2;75;N;S;N;Piso;Indautxu;1000;Indautxu;40401
+Bilbao;1;1;50;N;S;N;Apartamento;"Calle Telesforo Aranzadi; Indautxu";890;Indautxu;40401
+Bilbao;1;1;50;N;S;N;Piso;"Alameda Recalde; Indautxu";830;Indautxu;40401
+Bilbao;2;2;65;N;S;N;Piso;Uribarri;1250;Uribarri;18654
+Bilbao;1;1;39;N;S;N;Piso;Uribarri;745;Uribarri;18654
+Bilbao;3;2;90;N;S;N;Piso;"Calle Marcelino Oreja; Indautxu";1200;Indautxu;40401
+Bilbao;2;2;75;N;S;N;Piso;"Calle Máximo Aguirre; Abando - Albia";1300;Abando;40300
+Bilbao;4;2;148;S;S;N;Piso;"Calle Rodríguez Arias; Indautxu";1500;Indautxu;40401
+Bilbao;2;2;64;N;S;N;Piso;"Avenida Sabino Arana; Indautxu";950;Indautxu;40401
+Bilbao;3;2;140;N;S;N;Piso;"Calle Autonomía; Basurtu - Zorrotza";1200;Basurtu;29709
+Bilbao;2;2;68;S;S;N;Piso;"Calle República de Begoña; Ibaiondo";1050;Ibaiondo;30491
+Bilbao;2;1;60;N;S;N;Piso;"Calle Iturribide; Ibaiondo";850;Ibaiondo;30491
+Bilbao;3;2;100;N;S;N;Piso;"Calle Islas Canarias; Deusto";1150;Deusto;28537
+Bilbao;2;2;67;N;S;N;Piso;"Alameda Gregorio de la Revilla; Indautxu";1000;Indautxu;40401
+Bilbao;3;2;90;S;S;N;Piso;"Blas  de Otero 14. Bilbao; Deusto";1300;Deusto;28537
+Bilbao;3;2;130;N;S;N;Piso;Deusto;1200;Deusto;28537
+Bilbao;2;1;61;N;S;N;Piso;Basurtu - Zorrotza;850;Basurtu;29709
+Bilbao;3;2;105;S;S;N;Piso;"Muelle Sirgueras; Basurtu - Zorrotza";1450;Basurtu;29709
+Bilbao;1;1;60;N;S;N;Piso;"Paseo Uribitarte; Abando - Albia";1200;Abando;40300
+Bilbao;2;1;55;N;N;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;2;1;70;N;S;N;Piso;"Manuel Allende; Indautxu";850;Indautxu;40401
+Bilbao;4;4;180;N;S;N;Piso;"Manuel Allende; Indautxu";1950;Indautxu;40401
+Bilbao;2;2;67;N;S;N;Piso;"Alameda Gregorio de la Revilla; 3; Indautxu";1000;Indautxu;40401
+Bilbao;3;1;70;N;S;N;Piso;"Calle Iturribide; 76; Ibaiondo";900;Ibaiondo;30491
+Bilbao;3;3;105;N;S;N;Piso;" Islas Canarias ; 97; Deusto";1205;Deusto;28537
+Bilbao;2;1;67;N;S;N;Piso;"Bilbao - Plaza Reverendo Hermano Santiago Lasalle; Ibaiondo";750;Ibaiondo;30491
+Bilbao;3;2;110;S;S;N;Piso;"Calle Islas Canarias; Deusto";1150;Deusto;28537
+Bilbao;3;2;105;N;S;S;Piso;"Calle Islas Canarias; 97; Deusto";1150;Deusto;28537
+Bilbao;2;2;80;N;S;N;Piso;Abando - Albia;1400;Abando;40300
+Bilbao;2;2;100;N;N;N;Piso;Begoña - Santutxu;1100;Santutxu;18165
+Bilbao;3;2;100;N;N;N;Piso;Begoña - Santutxu;1200;Santutxu;18165
+Bilbao;1;1;80;N;N;N;Piso;Indautxu;850;Indautxu;40401
+Bilbao;2;0;75;N;N;N;Piso;Deusto;850;Deusto;28537
+Bilbao;2;2;70;N;N;N;Piso;Deusto;1000;Deusto;28537
+Bilbao;4;2;100;N;N;N;Piso;Ibaiondo;1200;Ibaiondo;30491
+Bilbao;1;1;50;N;S;N;Apartamento;"Mazarredo Zumarkalea; Abando - Albia";975;Abando;40300
+Bilbao;3;2;110;S;S;N;Piso;Errekalde;1100;Errekalde;21172
+Bilbao;1;1;63;S;S;N;Apartamento;"Biarritz Kalea; Errekalde";860;Errekalde;21172
+Bilbao;2;2;75;N;S;N;Piso;Indautxu;1900;Indautxu;40401
+Bilbao;2;1;60;N;S;N;Piso;Errekalde;990;Errekalde;21172
+Bilbao;4;2;90;N;S;N;Piso;Indautxu;1250;Indautxu;40401
+Bilbao;4;2;104;N;S;N;Piso;"Euskalduna Kalea; Abando - Albia";1100;Abando;40300
+Bilbao;2;1;86;N;S;N;Piso;Basurtu - Zorrotza;990;Basurtu;29709
+Bilbao;1;1;50;N;N;N;Piso;Abando - Albia;825;Abando;40300
+Bilbao;2;2;125;S;S;N;Piso;"Zirgariak Kaia; Basurtu - Zorrotza";1400;Basurtu;29709
+Bilbao;2;2;95;N;S;N;Piso;Abando - Albia;2500;Abando;40300
+Bilbao;2;2;90;N;S;N;Piso;Indautxu;1650;Indautxu;40401
+Bilbao;1;1;45;N;S;N;Apartamento;Ibaiondo;750;Ibaiondo;30491
+Bilbao;2;1;73;N;N;N;Piso;Ibaiondo;1300;Ibaiondo;30491
+Bilbao;2;1;70;N;S;N;Apartamento;Abando - Albia;1200;Abando;40300
+Bilbao;1;1;74;N;S;N;Apartamento;"Calle Belosticalle; Ibaiondo";1190;Ibaiondo;30491
+Bilbao;1;1;50;N;N;N;Piso;Ibaiondo;900;Ibaiondo;30491
+Bilbao;3;2;83;N;N;N;Piso;Ibaiondo;1200;Ibaiondo;30491
+Bilbao;2;1;80;N;S;N;Piso;"Prim Kalea; Ibaiondo";1200;Ibaiondo;30491
+Bilbao;4;2;140;N;S;N;Piso;Indautxu;1750;Indautxu;40401
+Bilbao;3;2;85;S;S;S;Apartamento;"Calle Henao; Abando - Albia";900;Abando;40300
+Bilbao;3;2;110;N;S;N;Piso;"Marcelino Oreja; Indautxu";1300;Indautxu;40401
+Bilbao;4;2;101;N;N;N;Piso;"Basurto Kastejana; Basurtu - Zorrotza";950;Basurtu;29709
+Bilbao;2;1;74;N;S;N;Piso;"Avenida Juan Antonio Zunzunegui; Basurtu - Zorrotza";1295;Basurtu;29709
+Bilbao;1;1;60;N;S;N;Apartamento;"Calle Belostikale; Ibaiondo";1190;Ibaiondo;30491
+Bilbao;3;1;89;N;N;N;Piso;"Calle San Francisco; Ibaiondo";950;Ibaiondo;30491
+Bilbao;2;2;100;N;S;N;Piso;"Calle Juan Ajuriaguerra; Abando - Albia";1200;Abando;40300
+Bilbao;9;3;340;N;N;N;Piso;"Alameda Recalde; 34; Abando - Albia";5000;Abando;40300
+Bilbao;3;1;90;N;S;N;Piso;Basurtu - Zorrotza;1150;Basurtu;29709
+Bilbao;3;2;80;N;N;N;Piso;Ibaiondo;1400;Ibaiondo;30491
+Bilbao;2;2;100;N;S;N;Piso;Abando - Albia;2500;Abando;40300
+Bilbao;2;1;80;N;S;N;Piso;"Calle Fernández del Campo; Abando - Albia";900;Abando;40300
+Bilbao;2;2;85;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;3;1;86;S;S;N;Piso;"Calle Arsuaga; 2; Begoña - Santutxu";850;Santutxu;18165
+Bilbao;3;2;111;N;N;N;Piso;Ibaiondo;1300;Ibaiondo;30491
+Bilbao;1;1;56;N;S;N;Apartamento;Indautxu;780;Indautxu;40401
+Bilbao;3;2;75;N;S;N;Piso;Indautxu;1500;Indautxu;40401
+Bilbao;2;2;80;N;S;N;Piso;"Calle Quintana; 1; Ibaiondo";1200;Ibaiondo;30491
+Bilbao;1;1;40;N;S;N;Piso;Deusto;750;Deusto;28537
+Bilbao;2;2;87;S;S;N;Piso;Abando - Albia;1560;Abando;40300
+Bilbao;2;1;65;N;S;N;Piso;"Calle Santa Clara; Begoña - Santutxu";750;Santutxu;18165
+Bilbao;1;2;98;N;S;N;Piso;"Máximo Aguirre; Indautxu";1600;Indautxu;40401
+Bilbao;4;2;148;N;S;N;Piso;"Maria Diaz de Haro; Indautxu";1780;Indautxu;40401
+Bilbao;3;1;89;N;S;N;Piso;Indautxu;900;Indautxu;40401
+Bilbao;2;2;70;N;S;N;Piso;"Tristán de Leguizamón Kalea; Uribarri";1200;Uribarri;18654
+Bilbao;2;2;75;N;S;N;Piso;"Avenida Lehendakari Aguirre; Deusto";1050;Deusto;28537
+Bilbao;2;2;75;N;S;N;Piso;"Calle Islas Canarias; Deusto";900;Deusto;28537
+Bilbao;3;1;76;N;S;N;Piso;Indautxu;900;Indautxu;40401
+Bilbao;1;1;54;N;S;N;Apartamento;Abando - Albia;800;Abando;40300
+Bilbao;1;2;130;N;S;N;Piso;Abando - Albia;1800;Abando;40300
+Bilbao;3;2;110;S;S;N;Piso;"Calle Zabalbide; Ibaiondo";1000;Ibaiondo;30491
+Bilbao;3;2;96;S;S;N;Piso;"Antonio de Trueba Kalea; Errekalde";950;Errekalde;21172
+Bilbao;1;1;70;N;S;N;Piso;Abando - Albia;1400;Abando;40300
+Bilbao;3;2;93;N;S;N;Piso;"Calle Luis Briñas; Basurtu - Zorrotza";1100;Basurtu;29709
+Bilbao;3;2;75;N;S;N;Piso;" Lasalle Santiago Reverendo ; 2; Begoña - Santutxu";1125;Santutxu;18165
+Bilbao;2;2;95;N;N;N;Piso;Abando - Albia;1100;Abando;40300
+Bilbao;2;1;67;N;S;N;Piso;"Calle General Salazar; Errekalde";875;Errekalde;21172
+Bilbao;3;2;91;N;S;N;Piso;"Travesía Zabala; Ibaiondo";1000;Ibaiondo;30491
+Bilbao;3;1;89;N;N;N;Piso;Ibaiondo;950;Ibaiondo;30491
+Bilbao;4;2;140;N;S;N;Piso;Abando - Albia;1600;Abando;40300
+Bilbao;3;2;90;N;S;N;Piso;Indautxu;1200;Indautxu;40401
+Bilbao;1;1;60;N;S;N;Apartamento;Abando - Albia;1150;Abando;40300
+Bilbao;1;1;73;N;S;N;Piso;"Alameda de Mazarredo; Abando - Albia";1300;Abando;40300
+Bilbao;3;2;70;N;N;N;Piso;Ibaiondo;1200;Ibaiondo;30491
+Bilbao;3;1;90;N;S;N;Piso;"Mediterraneo Itsasoaren Kalea; Deusto";1050;Deusto;28537
+Bilbao;3;1;85;N;S;N;Piso;"Calle Encarnación; Ibaiondo";1150;Ibaiondo;30491
+Bilbao;4;2;135;N;S;N;Piso;"Autonomia Kalea; Errekalde";1200;Errekalde;21172
+Bilbao;1;1;70;N;S;N;Piso;Errekalde;860;Errekalde;21172
+Bilbao;1;1;80;N;N;N;Piso;"Txakur Kalea; Ibaiondo";1290;Ibaiondo;30491
+Bilbao;1;1;62;S;S;N;Apartamento;Errekalde;860;Errekalde;21172
+Bilbao;2;2;85;N;S;N;Piso;"Alameda Gregorio de la Revilla; Indautxu";1200;Indautxu;40401
+Bilbao;1;1;52;N;S;N;Apartamento;"Calle Múgica y Butrón; Uribarri";920;Uribarri;18654
+Bilbao;3;1;70;N;N;N;Piso;Uribarri;890;Uribarri;18654
+Bilbao;1;1;52;N;S;N;Apartamento;"Alameda de Mazarredo; Abando - Albia";850;Abando;40300
+Bilbao;3;1;68;N;N;N;Piso;"Calle Juan Ajuriaguerra; Abando - Albia";920;Abando;40300
+Bilbao;1;1;50;N;S;N;Piso;"Nerbioi; Abando - Albia";850;Abando;40300
+Bilbao;1;1;79;N;S;N;Apartamento;"Quintana; Ibaiondo";1125;Ibaiondo;30491
+Bilbao;2;1;80;N;S;N;Piso;"Blas de Otero Kalea; Deusto";850;Deusto;28537
+Bilbao;3;2;93;N;S;N;Piso;"Astarloa Kalea; Abando - Albia";1500;Abando;40300
+Bilbao;2;1;55;N;S;N;Piso;"Zamakola; Ibaiondo";640;Ibaiondo;30491
+Bilbao;2;2;88;N;S;N;Piso;"Calle Henao; Abando - Albia";1250;Abando;40300
+Bilbao;1;1;45;N;S;N;Apartamento;"Calle Heros; Abando - Albia";795;Abando;40300
+Bilbao;3;2;80;N;S;N;Piso;Deusto;1200;Deusto;28537
+Bilbao;1;1;46;N;S;N;Apartamento;"Alameda de Mazarredo; Abando - Albia";1200;Abando;40300
+Bilbao;2;1;65;S;S;N;Piso;"Travesía Iturriaga; Begoña - Santutxu";825;Santutxu;18165
+Bilbao;1;1;65;N;S;N;Piso;Ibaiondo;1190;Ibaiondo;30491
+Bilbao;1;1;50;N;S;N;Apartamento;"Calle Ledesma; Abando - Albia";750;Abando;40300
+Bilbao;2;2;73;N;S;N;Piso;"Calle Villarías; Abando - Albia";1100;Abando;40300
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1100;Deusto;28537
+Bilbao;3;2;135;S;S;N;Estudio;"Calle Licenciado Poza; Indautxu";750;Indautxu;40401
+Bilbao;3;2;101;N;S;N;Piso;"Doctor Entrecanales; 13; Errekalde";1100;Errekalde;21172
+Bilbao;3;1;86;N;N;N;Piso;Ibaiondo;950;Ibaiondo;30491
+Bilbao;2;2;78;N;S;N;Piso;Indautxu;1350;Indautxu;40401
+Bilbao;3;1;20;N;S;N;Piso;"Calle Pablo de Alzola; 11; Basurtu - Zorrotza";360;Basurtu;29709
+Bilbao;3;2;90;N;N;N;Piso;Indautxu;950;Indautxu;40401
+Bilbao;3;2;90;N;N;N;Piso;Deusto;900;Deusto;28537
+Bilbao;4;2;125;N;N;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;2;1;70;N;N;N;Piso;Indautxu;950;Indautxu;40401
+Bilbao;2;1;70;N;S;N;Piso;"Calle Luzarra; Deusto";850;Deusto;28537
+Bilbao;1;1;50;S;S;N;Piso;"Calle Uribarri; Uribarri";730;Uribarri;18654
+Bilbao;3;2;100;S;S;N;Piso;"Grupo Tomas Zubiria Ybarra; Uribarri";1000;Uribarri;18654
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1100;Deusto;28537
+Bilbao;2;2;88;N;S;N;Piso;"Calle Henao; Abando - Albia";1350;Abando;40300
+Bilbao;2;2;100;N;S;S;Piso;"Muelle Sirgueras; Basurtu - Zorrotza";1000;Basurtu;29709
+Bilbao;2;2;80;N;S;N;Piso;"Rodríguez Arias; Indautxu";1100;Indautxu;40401
+Bilbao;1;1;53;N;S;N;Piso;Abando - Albia;1350;Abando;40300
+Bilbao;2;1;70;S;S;N;Piso;Uribarri;1000;Uribarri;18654
+Bilbao;1;1;40;N;S;N;Apartamento;Abando - Albia;780;Abando;40300
+Bilbao;4;2;120;N;N;N;Piso;Deusto;1400;Deusto;28537
+Bilbao;2;1;75;N;S;N;Piso;"Calle de Elcano; Abando - Albia";800;Abando;40300
+Bilbao;1;2;75;N;S;N;Apartamento;"Gran Vía Don Diego López de Haro; Abando - Albia";1500;Abando;40300
+Bilbao;2;1;63;N;N;N;Piso;Ibaiondo;900;Ibaiondo;30491
+Bilbao;3;2;115;N;S;N;Piso;"Calle Autonomía; Indautxu";1200;Indautxu;40401
+Bilbao;3;2;100;N;N;N;Piso;Indautxu;1150;Indautxu;40401
+Bilbao;3;1;80;N;S;N;Piso;Ibaiondo;950;Ibaiondo;30491
+Bilbao;3;2;92;N;S;N;Piso;"Calle Dolores Ibárruri; Errekalde";1250;Errekalde;21172
+Bilbao;3;2;100;N;N;N;Piso;"Avenida Madariaga; Deusto";1100;Deusto;28537
+Bilbao;3;2;115;N;N;N;Piso;Ibaiondo;1050;Ibaiondo;30491
+Bilbao;3;2;135;N;N;N;Piso;"Calle Autonomía; 12; Indautxu";1200;Indautxu;40401
+Bilbao;1;1;73;N;S;N;Piso;"Calle Belosticalle; Ibaiondo";1190;Ibaiondo;30491
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1100;Deusto;28537
+Bilbao;4;2;125;N;N;N;Piso;Deusto;1450;Deusto;28537
+Bilbao;3;2;100;N;N;N;Piso;Indautxu;900;Indautxu;40401
+Bilbao;1;1;34;N;S;N;Apartamento;Indautxu;800;Indautxu;40401
+Bilbao;3;1;82;N;S;N;Piso;"Calle Doctor Alberca; Uribarri";800;Uribarri;18654
+Bilbao;2;1;60;N;S;N;Piso;Abando - Albia;1300;Abando;40300
+Bilbao;3;2;200;N;S;N;Piso;Abando - Albia;3000;Abando;40300
+Bilbao;1;1;0;N;S;N;Piso;"Alameda de Mazarredo; Abando - Albia";975;Abando;40300
+Bilbao;4;1;100;N;S;N;Piso;"Avenida Montevideo; Basurtu - Zorrotza";1200;Basurtu;29709
+Bilbao;2;1;65;N;N;N;Piso;"Tellagorri; Basurtu - Zorrotza";800;Basurtu;29709
+Bilbao;5;8;230;N;S;N;Piso;Abando - Albia;1500;Abando;40300
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1100;Deusto;28537
+Bilbao;4;2;133;N;S;N;Piso;Abando - Albia;0;Abando;40300
+Bilbao;2;1;65;N;S;N;Piso;Abando - Albia;830;Abando;40300
+Bilbao;4;1;115;N;S;N;Piso;"Travesía Masustegi; Begoña - Santutxu";1300;Santutxu;18165
+Bilbao;3;1;90;N;S;N;Piso;"Alameda San Mamés; 45; Indautxu";1100;Indautxu;40401
+Bilbao;1;1;45;N;N;N;Apartamento;"Calle San Francisco; 44; Abando - Albia";700;Abando;40300
+Bilbao;1;1;45;N;S;N;Apartamento;"Calle Pérez Galdós; Indautxu";850;Indautxu;40401
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1150;Deusto;28537
+Bilbao;3;2;90;N;N;N;Piso;"Calle Blas de Otero; Deusto";1000;Deusto;28537
+Bilbao;2;2;65;N;S;N;Piso;Abando - Albia;1500;Abando;40300
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1000;Deusto;28537
+Bilbao;2;2;95;N;S;S;Piso;"Alameda de Mazarredo; Abando - Albia";1350;Abando;40300
+Bilbao;1;1;75;N;S;N;Apartamento;"Gran Vía Don Diego López de Haro; Abando - Albia";1100;Abando;40300
+Bilbao;1;1;65;N;S;N;Apartamento;"Calle Belostikale; Ibaiondo";890;Ibaiondo;30491
+Bilbao;2;1;75;N;N;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;2;1;65;N;N;N;Piso;Ibaiondo;850;Ibaiondo;30491
+Bilbao;2;2;90;N;S;N;Piso;"Calle Doctores Carmelo Gil; Errekalde";950;Errekalde;21172
+Bilbao;3;2;95;N;N;N;Piso;Deusto;1200;Deusto;28537
+Bilbao;3;1;85;N;S;N;Piso;Abando - Albia;1100;Abando;40300
+Bilbao;3;1;125;N;S;N;Piso;"Travesía Uribitarte; Abando - Albia";1200;Abando;40300
+Bilbao;3;2;97;S;S;N;Piso;"Calle Arane; Errekalde";1100;Errekalde;21172
+Bilbao;3;2;109;N;S;N;Piso;"Hurtado de Ãmezaga; Abando - Albia";1550;Abando;40300
+Bilbao;1;1;74;N;S;N;Apartamento;Ibaiondo;890;Ibaiondo;30491
+Bilbao;2;2;108;N;S;N;Piso;"Puente de Deustu; Abando - Albia";2200;Abando;40300
+Bilbao;2;2;108;N;S;N;Piso;"Puente de Deustu; Abando - Albia";1900;Abando;40300
+Bilbao;1;2;65;N;S;N;Piso;"Gran Vía Don Diego López de Haro; Abando - Albia";1100;Abando;40300
+Bilbao;3;2;149;S;S;N;Piso;"Plaza de Moraza; Uribarri";1200;Uribarri;18654
+Bilbao;3;2;100;N;N;N;Piso;Deusto;1100;Deusto;28537
+Bilbao;2;2;65;N;S;N;Piso;Uribarri;1250;Uribarri;18654
+Bilbao;1;1;65;N;S;N;Apartamento;"Calle Belostikale; Ibaiondo";1190;Ibaiondo;30491
+Bilbao;1;1;40;N;S;N;Apartamento;"Calle Fernández del Campo; Indautxu";800;Indautxu;40401
+Bilbao;2;2;65;N;S;N;Piso;Ibaiondo;950;Ibaiondo;30491
+Bilbao;1;1;65;N;S;N;Apartamento;"Calle Belostikale; Ibaiondo";990;Ibaiondo;30491
+Bilbao;3;2;110;N;S;N;Piso;"Gran Vía Don Diego López de Haro; Abando - Albia";1350;Abando;40300
+Bilbao;1;1;100;N;S;N;Piso;Abando - Albia;2000;Abando;40300
+Bilbao;2;2;85;N;S;N;Piso;Indautxu;1650;Indautxu;40401
+Bilbao;2;2;71;N;S;N;Piso;Abando - Albia;1400;Abando;40300
+Bilbao;1;2;50;N;S;N;Piso;Basurtu - Zorrotza;1000;Basurtu;29709
